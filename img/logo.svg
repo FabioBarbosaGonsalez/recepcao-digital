@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 48" width="40" height="48" role="img" aria-label="Recepção Digital">
+  <!-- Marca Recepção Digital: uma porta em arco, entreaberta, com a maçaneta em cobre. -->
+  <path d="M2 47V19a18 18 0 0 1 36 0v28z" fill="#2F8F83"/>
+  <path d="M9 47V20a11 11 0 0 1 22 0v27z" fill="#E4F3EF"/>
+  <path d="M9 47V20a11 11 0 0 1 11-11v38z" fill="#FFFFFF"/>
+  <circle cx="16.5" cy="31" r="2" fill="#C0754A"/>
+</svg>
